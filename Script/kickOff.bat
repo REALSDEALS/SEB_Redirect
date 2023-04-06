@@ -47,7 +47,7 @@
 :: Maincode - Goes to Google in this case.
 @echo off
 title SEB - Kick off your Form!
-start "" https://www.google.com/
+start firefox https://www.google.com/
 pause
 exit /b 
 

@@ -1,5 +1,8 @@
 # SEB_Redirect - Changelog.md
 
+## 06-04-2023 - @REALSDEALS
+Changed the script to not open up the default browser but instead it opens up Firefox.
+
 ## 04-04-2023 - @REALSDEALS
 Repository has been created and the main info has been added to the repository. 
 
